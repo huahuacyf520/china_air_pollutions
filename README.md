@@ -18,11 +18,11 @@ Path: https://zenodo.org/record/7533813#.Y__5THZByUk
 PM2.5 part2: DOI:10.5281/zenodo.7547774
 Path: https://zenodo.org/record/7547774#.Y__5znZByUk
 
-SO2: part1
-path:https://zenodo.org/record/7580726#.ZAA1v_lfiUk
+SO2: part1 DOI:10.5281/zenodo.7312179
+path:https://zenodo.org/record/7312179#.ZABb03ZByUk
 
 SO2: part2: DOI:10.5281/zenodo.7580714
-path:
+path:https://zenodo.org/record/7580726#.ZAA1v_lfiUk
 
 Ozone part1: DOI:10.5281/zenodo.7580720
 Path: https://zenodo.org/record/7580720#.Y__5SXZByUk
