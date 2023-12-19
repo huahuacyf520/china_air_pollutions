@@ -29,3 +29,7 @@ URL: https://zenodo.org/record/7856971#.ZEoTEXZByUk
 
 
 This version of the product optimizes the data structure (Int16 bit storage), saves storage space, and reduces download time. Provide annual average and monthly average products to lower the threshold for product use.
+
+Citations:
+Chi, Y.; Zhan, Y.; Wang, K.; Ye, H. Spatial Distribution of Multiple Atmospheric Pollutants in China from 2015 to 2020. Remote Sens. 2023, 15, 5705. https://doi.org/10.3390/rs15245705
+
