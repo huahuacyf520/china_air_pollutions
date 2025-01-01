@@ -1,7 +1,7 @@
 # china_air_pollutions--Multiple air pollutants dataset (MuAP)
 PM25_O3_SO2_NO2(Version 1.1)
 
-Spatial distribution of various air pollutants in China at 1 km(pm2.5_SO2_Ozone)
+ Multiple air pollutants dataset (MuAP) in China at 1 km(pm2.5_SO2_Ozone)
 
 Time frame: 2015-2020
 Area: Most of China
